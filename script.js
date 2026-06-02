@@ -7,6 +7,7 @@ const sheetUrlBrainShow = 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1v
 const sheetUrlScribbleio = 'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQ_ND2dfb7MVHHUCsYM4AijZ_lJqeTXV_7LRyxpGFqel707J05lEMOcGfMIokabqLq7QkbBUwR8jPxF/pubhtml/sheet?headers=false&gid=1538371344';
 
 let data = null;
+let datasets = null;
 
 async function loads() {
   let urls = [sheetUrlimages, sheetUrlMarbles, sheetUrlBrainShow, sheetUrlScribbleio];
@@ -267,7 +268,7 @@ const slotsData = {
     7: { title: "Marzec - f1shuu87", desc: "Clair Obscur: Expedition 33 Deluxe Edition", img: "https://i.ibb.co/0jX3pxLf/f1shuu-Marzec.png", locked: false },
     8: { title: "Slot 8", desc: "No picking", img: "img/8.png", locked: true },
     9: { title: "Luty - marcin25_96", desc: "Spider-Man 2 Deluxe Edition", img: "https://i.ibb.co/SFTyJqD/Marcin25-96-Luty.png", locked: false },
-    10:{ title: "Slot 10", desc: "No picking", img: "img/10.png", locked: true },
+    10:{ title: "Maj - vaderq", desc: "Podkładka pod mysz", img: "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/25/2586577/Podkladka-MAD-DOG-GMPR702-RGB-XXL-front-00.jpg", locked: false },
     11:{ title: "Slot 11", desc: "No picking", img: "img/11.png", locked: true },
     12:{ title: "Styczeń - marcin25_96", desc: "PixelBox Mystery Box", img: "https://i.ibb.co/DgKGzd5r/marcin.jpg", locked: false }
 };
