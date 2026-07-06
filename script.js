@@ -261,7 +261,7 @@ const slotsData = {
     1: { title: "Slot 1", desc: "No picking", img: "img/1.png", locked: true },
     2: { title: "Slot 2", desc: "No picking", img: "img/2.png", locked: true },
     3: { title: "Slot 3", desc: "No picking", img: "img/3.png", locked: true },
-    4: { title: "Slot 4", desc: "No picking", img: "img/4.png", locked: true },
+    4: { title: "Czerwiec - CapitanSilence52", desc: "Minilodówka USB", img: "https://jagadzet.pl/images/jagadzet/5000-6000/Lodowka-USB-MA-_%5B5888%5D_480.jpg", locked: false },
     5: { title: "Slot 5", desc: "No picking", img: "img/5.png", locked: true },
     6: { title: "Kwiecień - f1shuu87", desc: "Głośnik mobilny MANTA SPK15GO-BK", img: "https://i.ibb.co/1t0XxY8k/kwiecien-f1shu87.jpg", locked: false },
 
