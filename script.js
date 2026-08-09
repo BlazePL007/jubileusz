@@ -266,9 +266,9 @@ const slotsData = {
     6: { title: "Kwiecień - f1shuu87", desc: "Głośnik mobilny MANTA SPK15GO-BK", img: "https://i.ibb.co/1t0XxY8k/kwiecien-f1shu87.jpg", locked: false },
 
     7: { title: "Marzec - f1shuu87", desc: "Clair Obscur: Expedition 33 Deluxe Edition", img: "https://i.ibb.co/0jX3pxLf/f1shuu-Marzec.png", locked: false },
-    8: { title: "Slot 8", desc: "No picking", img: "img/8.png", locked: true },
+    8: { title: "Lipiec - ThePingwin17", desc: "Stojak na słuchawki RGB", img: "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2023/1/pr_2023_1_25_11_1_58_829_00.jpg", locked: false },
     9: { title: "Luty - marcin25_96", desc: "Spider-Man 2 Deluxe Edition", img: "https://i.ibb.co/SFTyJqD/Marcin25-96-Luty.png", locked: false },
-    10:{ title: "Maj - vaderq", desc: "Podkładka pod mysz", img: "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/25/2586577/Podkladka-MAD-DOG-GMPR702-RGB-XXL-front-00.jpg", locked: false },
+    10:{ title: "Maj - vaderq", desc: "Podkładka pod mysz", img: "https://i.ibb.co/gYbhgg2/Messenger-creation-B4-D39953-0-F37-4-C7-A-B8-B5-86518-D1-EAFA5.jpg", locked: false },
     11:{ title: "Slot 11", desc: "No picking", img: "img/11.png", locked: true },
     12:{ title: "Styczeń - marcin25_96", desc: "PixelBox Mystery Box", img: "https://i.ibb.co/DgKGzd5r/marcin.jpg", locked: false }
 };
